@@ -34,3 +34,7 @@ h1 small {
 small a {
     color: #777;
 }
+
+#move-page-top {
+    cursor: pointer;
+}

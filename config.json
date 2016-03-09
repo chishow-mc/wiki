@@ -1,7 +1,7 @@
 {
    "useSideMenu": true,
    "lineBreaks": "gfm",
-   "additionalFooterText": "© Eai - ",
+   "additionalFooterText": "<a id='move-page-top'>上に戻る<i class='fa fa-level-up'></i></a> - © Eai - ",
    "anchorCharacter": "§",
    "title": "池沼鯖Wiki"
 }

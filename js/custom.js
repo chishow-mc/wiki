@@ -11,5 +11,12 @@ $(function(){
         var historyUrl = "https://github.com/chishow-mc/chishow-mc.github.io/commits/master/"+file;
         $("#history").attr("href", historyUrl)
 
+        // 上に戻るボタン
+        $('#move-page-top').click(
+        function(){
+            $('html,body').animate({scrollTop:0});
+            }
+        );
+
     },1000);
 });
