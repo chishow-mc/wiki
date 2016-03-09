@@ -5,6 +5,7 @@ li p {
 li {
     margin: 0 0 .4em;
 }
+
 .nav li  {
     margin: 0;
 }
@@ -24,4 +25,12 @@ h2 code, h2 .fa {
 
 .jumplink {
     display: none!important;
+}
+
+h1 small {
+    margin-left: .3em;
+}
+
+small a {
+    color: #777;
 }

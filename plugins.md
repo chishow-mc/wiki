@@ -18,12 +18,6 @@
 ## Lockette `v1.8.21` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/lockette/)
    - 看板でチェスト保護とか。詳しい使い方はググってね。
 
-## Instant Decay `v1.3` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/instant-decay/)
-   - 木を切ったときにの葉っぱも同時に破壊します。
-   - https://www.youtube.com/watch?v=sxCxd2M96So
-   - `/instantdecay disable` このプラグインを無効化できます。
-   - `/instantdecay enable` このプラグインを有効化できます。
-
 ## ManySmallTweaks `v1.0.13` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/manysmalltweaks/)
    - いくつかの機能を追加するプラグインです。
      - ハシゴ・レール・絵画を浮かせて設置できます。（元となったブロックを取り除いても破壊されない）
