@@ -1145,7 +1145,7 @@ function googlemapsReady() {
 
         function m() {
             var b = "";
-            b += '<hr><div class="scontainer">', b += '<div class="pull-right md-copyright-footer"> ', b += '<span id="md-footer-additional"></span>', b += 'Website generated with <a href="http://www.mdwiki.info">MDwiki</a> ', b += "&copy; Timo D&ouml;rr and contributors. ", b += "</div>", b += "</div>";
+            b += '<hr><div class="scontainer">', b += '<div class="pull-right md-copyright-footer"> ', b += '<span id="md-footer-additional"></span>', b += 'Powered by <a href="http://www.mdwiki.info">MDwiki</a> ', b += "</div>", b += "</div>";
             var c = a(b);
             c.css("position", "relative"), c.css("margin-top", "1em"), a("#md-all").append(c)
         }
