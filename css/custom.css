@@ -1,0 +1,27 @@
+li p {
+    margin: 0 0 .4em;
+}
+
+li {
+    margin: 0 0 .4em;
+}
+.nav li  {
+    margin: 0;
+}
+
+.fa {
+    margin-right: .2em;
+}
+
+.h1:first-child, .h2:first-child, .h3:first-child, h1:first-child, h2:first-child, h3:first-child {
+    margin-top: 0;
+}
+
+h2 code, h2 .fa {
+    font-size: 40%;
+    vertical-align: middle;
+}
+
+.jumplink {
+    display: none!important;
+}
