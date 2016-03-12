@@ -2,13 +2,11 @@
 ===
 
 ## Dynmap `Psy-Virus's 1.9 semi-compatible v2.3-SNAPSHOT-Dev201603020142` [<i class="fa fa-external-link"></i>](https://github.com/webbukkit/dynmap/issues/1891#issuecomment-191001471)
-
    - ブラウザで見れるリアルタイムマップを表示します。
    - http://map.mc.mizle.net
    - 暫定版なので1.9で追加されたブロックが描画できません。
 
 ## ChopTree `v3.2.3` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/choptree.2046/)
-
    - 木の根元切ったら自動で上まで伐採してくれます。
    - `/togglechop` でオンオフを切り替えられます。
 
@@ -26,6 +24,7 @@
      - サドルつきの豚が死んだらサドルをドロップします。
      - 豚に小麦を与えると1-3匹の子供を産むようになります。
      - クモの巣をハサミで回収できるようになります。
+   - 特にコマンドはありません。
 
 ## MyHome `v2.3.2` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/myhome/) 
    - 自分のHomeを設定してコマンドを打つとそこにテレポートできるプラグインです。
@@ -45,6 +44,7 @@
 
 ## SleepDay `v0.1` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/sleep-day/)
    - ベッドで誰か1人でも寝ると朝になります。
+   - 特にコマンドはありません。
 
 ## SimpleSort `v1.6` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/simplesort/)
    - 木の棒でチェストを殴るとソートできます。
@@ -56,11 +56,21 @@
 ## FoundBoxx `v1.9.2` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/foundboxx/)
    - 鉱石を見つけたら自動アナウンスしてくれるプラグインです。
    - ログが大量に流れるため、レッドストーンのみ無効化しています。
+   - 特にコマンドはありません。
 
 ## DeathPoint `v0.8.4.9b` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/deathpoint/)
    - 死亡時の座標を教えてくれるプラグインです。
    - `/deathpoint` 死亡時の座標を表示します。
 
+## TTA `1.2` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/api-title-tablist-actionbar-ping-api-%E2%98%85-1-8-1-9-%E2%98%85-tta.19595/)
+   - 前提プラグイン。
+   - APIを提供しています。
+   - 特にコマンドはありません。
+   
+## CTSNC `7.6` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-animated-scoreboard-and-tablist-nametag-chat-%E2%98%85-protocol-hack-1-8-1-9.10714/)
+   - Tabキー押した時の表示を豪華にするのに使っています。
+   - チャット欄のカスタマイズにも使用しています。
+   - 特にコマンドはありません。
 ---
 
 プラグイン追加希望も受け付けています。

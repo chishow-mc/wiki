@@ -6,6 +6,12 @@
 2016/03
 ---
 
+### 2016/03/12
+
+- [追加] [TTA `1.2`](https://www.spigotmc.org/resources/api-title-tablist-actionbar-ping-api-%E2%98%85-1-8-1-9-%E2%98%85-tta.19595/)を追加
+- [追加] [CTSNC `7.6`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-animated-scoreboard-and-tablist-nametag-chat-%E2%98%85-protocol-hack-1-8-1-9.10714/)を追加
+- [更新] Spigotを`git-Spigot-2dc26f3-0619f0e`へ更新。
+
 ### 2016/03/10
 
 - [削除] Instant Decayを削除。
@@ -13,7 +19,7 @@
 ### 2016/03/07
 
 - [更新] Spigotを`git-Spigot-3104eb1-0705465`へ更新。
-- [追加] [MineTweet_for_Plugin v1.48](http://forum.minecraftuser.jp/viewtopic.php?f=38&t=12469#p101584)を追加
+- [追加] [MineTweet_for_Plugin v1.48](http://forum.minecraftuser.jp/viewtopic.php?f=38&t=12469#p101584)を追加。
 
 ### 2016/03/06
 
