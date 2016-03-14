@@ -6,6 +6,9 @@
 2016/03
 ---
 
+### 2016/03/15
+- [更新] Spigotを`git-Spigot-104c8c8-e43b278`へ更新。
+
 ### 2016/03/12
 
 - [追加] [TTA `1.2`](https://www.spigotmc.org/resources/api-title-tablist-actionbar-ping-api-%E2%98%85-1-8-1-9-%E2%98%85-tta.19595/)を追加
