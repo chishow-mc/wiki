@@ -1,10 +1,9 @@
 <i class="fa fa-plug"></i>導入プラグイン一覧
 ===
 
-## Dynmap `Psy-Virus's 1.9 semi-compatible v2.3-SNAPSHOT-Dev201603020142` [<i class="fa fa-external-link"></i>](https://github.com/webbukkit/dynmap/issues/1891#issuecomment-191001471)
+## Dynmap `v2.3-alpha-1` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/dynmap/)
    - ブラウザで見れるリアルタイムマップを表示します。
    - http://map.mc.mizle.net
-   - 暫定版なので1.9で追加されたブロックが描画できません。
 
 ## ChopTree `v3.2.3` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/choptree.2046/)
    - 木の根元切ったら自動で上まで伐採してくれます。

@@ -10,6 +10,7 @@
 - [更新] Spigotを`git-Spigot-23e921f-8b69bdd`へ更新。
 - [更新] Spawnから半径3000チャンクのマップを作成。
 - [更新] 作成済みマップのDynmapをすべてレンダリング。
+- [更新] Dynmapを`v2.3-alpha-1`へ更新。
 
 ### 2016/03/15
 - [更新] Spigotを`git-Spigot-104c8c8-e43b278`へ更新。
