@@ -41,6 +41,9 @@
    - `/home private` 自分のHomeに招待された人しか来られないようにします。
    - `/home invite <ID>` 指定したIDを自分のHomeに招待します。
    - `/home uninvite <ID>` 指定したIDを自分のHomeに招待を解除します。
+   
+   ### 特殊なHome
+   - `/home Spawn`マップの初期スポーンへテレポートします。
 
 ## SleepDay `v0.1` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/sleep-day/)
    - ベッドで誰か1人でも寝ると朝になります。
