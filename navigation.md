@@ -2,7 +2,7 @@
 
 [<i class="fa fa-question-circle"></i>について](about.md)
 
-[<i class="fa fa-plug"></i>プラグイン]()
+[<i class="fa fa-plug"></i>プラグイン](plugins.md)
 
   * [<i class="fa fa-list"></i>プラグイン一覧](plugins.md)
   * [ビギナーズガイド](plugins/beginners_guide.md)
