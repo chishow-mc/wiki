@@ -12,6 +12,7 @@
 - [追加] [Recipe Finder `2.2`](http://dev.bukkit.org/bukkit-plugins/recipe-finder/)を追加。
 - [追加] [UniversalExp `1.2.1`](http://dev.bukkit.org/bukkit-plugins/universalexp/)を追加。
 - [追加] [WeatherRestrictions `3.0`](http://dev.bukkit.org/bukkit-plugins/weatherrestrictions/)を追加。
+- [削除] UniversalExpを削除。
 
 ### 2016/03/16
 - [更新] Spigotを`git-Spigot-23e921f-8b69bdd`へ更新。
