@@ -8,6 +8,8 @@
 
 ### 2016/03/18
 - [更新] CTSNCを`7.8`へ更新。
+- [追加] [FarmAssist `2.3`](http://dev.bukkit.org/bukkit-plugins/farmassist/)を追加。
+- [追加] [Recipe Finder `2.2`](http://dev.bukkit.org/bukkit-plugins/recipe-finder/)を追加。
 
 ### 2016/03/16
 - [更新] Spigotを`git-Spigot-23e921f-8b69bdd`へ更新。
@@ -20,8 +22,8 @@
 
 ### 2016/03/12
 
-- [追加] [TTA `1.2`](https://www.spigotmc.org/resources/api-title-tablist-actionbar-ping-api-%E2%98%85-1-8-1-9-%E2%98%85-tta.19595/)を追加
-- [追加] [CTSNC `7.6`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-animated-scoreboard-and-tablist-nametag-chat-%E2%98%85-protocol-hack-1-8-1-9.10714/)を追加
+- [追加] [TTA `1.2`](https://www.spigotmc.org/resources/api-title-tablist-actionbar-ping-api-%E2%98%85-1-8-1-9-%E2%98%85-tta.19595/)を追加。
+- [追加] [CTSNC `7.6`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-animated-scoreboard-and-tablist-nametag-chat-%E2%98%85-protocol-hack-1-8-1-9.10714/)を追加。
 - [更新] Spigotを`git-Spigot-2dc26f3-0619f0e`へ更新。
 
 ### 2016/03/10

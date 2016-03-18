@@ -68,11 +68,18 @@
    - 前提プラグイン。
    - APIを提供しています。
    - 特にコマンドはありません。
-   
-## CTSNC `7.6` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-animated-scoreboard-and-tablist-nametag-chat-%E2%98%85-protocol-hack-1-8-1-9.10714/)
+
+## CTSNC `7.8` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-animated-scoreboard-and-tablist-nametag-chat-%E2%98%85-protocol-hack-1-8-1-9.10714/)
    - Tabキー押した時の表示を豪華にするのに使っています。
    - チャット欄のカスタマイズにも使用しています。
    - 特にコマンドはありません。
+
+## FarmAssist `2.3` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/farmassist/)
+   - 作物の種を自動で植え直してくれます。
+
+## Recipe Finder `2.2` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/recipe-finder/)
+   - `/recipe <英語アイテム名>` でアイテムのレシピを確認できます。
+   - とっても便利！
 ---
 
 プラグイン追加希望も受け付けています。
