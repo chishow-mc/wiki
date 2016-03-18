@@ -80,6 +80,18 @@
 ## Recipe Finder `2.2` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/recipe-finder/)
    - `/recipe <英語アイテム名>` でアイテムのレシピを確認できます。
    - とっても便利！
+
+## UniversalExp `1.2.1` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/universalexp/)
+   - 石や砂や土を掘ると少しだけ経験値が入ってきます。(0.1)
+   - ExpBank機能が付属しています。
+     - ExpBankを使うと経験値を預けたり引き出したりできます。預けておけば死んでも経験値を失わないので便利です。手数料もかかりません。
+     - 看板の１行目に`expbank`と書いて設置すれば作成完了です。
+     - ExpBankを左クリックすると現在所持している経験値をすべて預けます。
+     - ExpBankを右クリックすると現在預けている経験値をすべて引き出します。
+
+## WeatherRestrictions `3.0` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/weatherrestrictions/)
+   - 天候を若干制御します。
+   - 雨が長くて5分で止むように設定してあります。
 ---
 
 プラグイン追加希望も受け付けています。
