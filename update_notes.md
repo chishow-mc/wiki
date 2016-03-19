@@ -6,6 +6,9 @@
 2016/03
 ---
 
+### 2016/03/19
+- [更新] Spigotを `git-Spigot-0426685-4cd46b2`へ更新。
+
 ### 2016/03/18
 - [更新] CTSNCを`7.8`へ更新。
 - [追加] [FarmAssist `2.3`](http://dev.bukkit.org/bukkit-plugins/farmassist/)を追加。
