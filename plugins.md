@@ -69,7 +69,7 @@
    - APIを提供しています。
    - 特にコマンドはありません。
 
-## CTSNC `7.8` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-animated-scoreboard-and-tablist-nametag-chat-%E2%98%85-protocol-hack-1-8-1-9.10714/)
+## CTSNC `7.9` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-animated-scoreboard-and-tablist-nametag-chat-%E2%98%85-protocol-hack-1-8-1-9.10714/)
    - Tabキー押した時の表示を豪華にするのに使っています。
    - チャット欄のカスタマイズにも使用しています。
    - 特にコマンドはありません。
