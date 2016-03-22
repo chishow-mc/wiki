@@ -9,7 +9,7 @@
 ### 2016/03/22
 - [追加] [Satchels `0.1.0`](https://www.spigotmc.org/resources/satchels-backpacks.15079/)を追加。
 - [更新] CTSNCを`8.0`へ更新。
-- [更新] Spigotを ``へ更新。
+- [更新] Spigotを `git-Spigot-f04e043-616a968`へ更新。
 
 ### 2016/03/20
 - [更新] CTSNCを`7.9`へ更新。
