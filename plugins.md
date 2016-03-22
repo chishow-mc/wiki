@@ -84,6 +84,10 @@
 ## WeatherRestrictions `3.0` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/weatherrestrictions/)
    - 天候を若干制御します。
    - 雨が長くて5分で止むように設定してあります。
+
+## Satchels `0.1.0` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/satchels-backpacks.15079/)
+   - アイテムを持てる量が増えるバックパックを追加します。
+   - 詳しくは個別ページを参照してください。 - [Satchels](plugins/satchels.md)
 ---
 
 プラグイン追加希望も受け付けています。
