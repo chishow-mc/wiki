@@ -5,7 +5,7 @@
 ---
 - サーバーアドレス: **`play.mc.mizle.net`**
 - Minecraftバージョン: `1.9`
-- サーバーバージョン: `CraftBukkit version git-Spigot-f04e043-616a968 (MC: 1.9) (Implementing API version 1.9-R0.1-SNAPSHOT)`
+- サーバーバージョン: `CraftBukkit version git-Spigot-d20369f-7fc5cd8 (MC: 1.9) (Implementing API version 1.9-R0.1-SNAPSHOT)`
   - 随時[Spigot](https://www.spigotmc.org/)の最新版に更新予定です。
 
 ---
