@@ -1,13 +1,24 @@
 <i class="fa fa-plug"></i>導入プラグイン一覧
 ===
 
-## Dynmap `v2.3-alpha-1` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/dynmap/)
-   - ブラウザで見れるリアルタイムマップを表示します。
-   - http://map.mc.mizle.net
-
 ## ChopTree `v3.2.3` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/choptree.2046/)
    - 木の根元切ったら自動で上まで伐採してくれます。
    - `/togglechop` でオンオフを切り替えられます。
+
+## DeathPoint `v0.8.4.9b` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/deathpoint/)
+   - 死亡時の座標を教えてくれるプラグインです。
+   - `/deathpoint` 死亡時の座標を表示します。
+
+## Dynmap `v2.3` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/dynmap/)
+   - ブラウザで見れるリアルタイムマップを表示します。
+   - http://map.mc.mizle.net
+
+## FarmAssist `2.3` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/farmassist/)
+   - 作物の種を自動で植え直してくれます。
+
+## FoundBoxx `v1.9.2` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/foundboxx/)
+   - 鉄・金・ラスピラズリ・ダイヤ鉱石を見つけたら自動アナウンスしてくれるプラグインです。
+   - 特にコマンドはありません。
 
 ## FlatBedrock `v1.0` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/flatbedrock/)
    - `/flatbedrock <範囲>` 岩盤を平坦化します。y0がすべて岩盤になりy1~y4までの岩盤が丸石に変わります。
@@ -44,57 +55,31 @@
    ### 特殊なHome
    - `/home Spawn`マップの初期スポーンへテレポートします。
 
-## SleepDay `v0.1` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/sleep-day/)
-   - ベッドで誰か1人でも寝ると朝になります。
-   - 特にコマンドはありません。
-
-## SimpleSort `v1.6` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/simplesort/)
-   - 木の棒でチェストを殴るとソートできます。
-   - `/sort`  `/sort top` インベントリをソートします
-   - `/sort hot` ホットバー（下にある10個のアイテムスロット）をソートします。
-   - `/sort all` インベントリとホットバーをソートします。
-   - `/sort chest` カーソルを合わせているチェストをソートします。木の棒で殴ったときと同じ効果です。
-
-## FoundBoxx `v1.9.2` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/foundboxx/)
-   - 鉱石を見つけたら自動アナウンスしてくれるプラグインです。
-   - ログが大量に流れるため、レッドストーンのみ無効化しています。
-   - 特にコマンドはありません。
-
-## DeathPoint `v0.8.4.9b` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/deathpoint/)
-   - 死亡時の座標を教えてくれるプラグインです。
-   - `/deathpoint` 死亡時の座標を表示します。
-
-## TTA `1.2` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/api-title-tablist-actionbar-ping-api-%E2%98%85-1-8-1-9-%E2%98%85-tta.19595/)
-   - 前提プラグイン。
-   - APIを提供しています。
-   - 特にコマンドはありません。
-
-## CTSNC `7.9` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-animated-scoreboard-and-tablist-nametag-chat-%E2%98%85-protocol-hack-1-8-1-9.10714/)
-   - Tabキー押した時の表示を豪華にするのに使っています。
-   - チャット欄のカスタマイズにも使用しています。
-   - 特にコマンドはありません。
-
-## FarmAssist `2.3` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/farmassist/)
-   - 作物の種を自動で植え直してくれます。
-
 ## Recipe Finder `2.2` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/recipe-finder/)
    - `/recipe <英語アイテム名>` でアイテムのレシピを確認できます。
    - とっても便利！
-
-## WeatherRestrictions `3.0` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/weatherrestrictions/)
-   - 天候を若干制御します。
-   - 雨が長くて5分で止むように設定してあります。
-   - うまく動作していないような気もします。
 
 ## Satchels `0.1.0` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/satchels-backpacks.15079/)
    - アイテムを持てる量が増えるバックパックを追加します。
    - 詳しくは個別ページを参照してください。 - [Satchels](plugins/satchels.md)
    - **インベントリ内でうまくスタックできないバグ、バックパックが消えるバグが確認されています。**
    - そのため別プラグインを導入する準備をしています。
+   - インベントリ内でうまくスタックできないバグはSatchels内でスタックしてから取り出すことで回避可能です。
+
+## SimpleSort `v1.6` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/simplesort/)
+   - 木の棒でチェストを殴るとソートできます。
+   - `/sort`  `/sort top` インベントリをソートします
+   - `/sort hot` ホットバー（画面下にある10個のアイテムスロット）をソートします。
+   - `/sort all` インベントリとホットバーをソートします。
+   - `/sort chest` カーソルを合わせているチェストをソートします。木の棒で殴ったときと同じ効果です。
+
+## SleepDay `v0.1` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/sleep-day/)
+   - ベッドで誰か1人でも寝ると朝になります。
+   - 特にコマンドはありません。
 
 ## Statistics `1.2.4.173` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/statistics/)
    - サーバー上のさまざまな統計情報を収集します。
-   - 統計情報は[stats.mc.mizle.net](http://stats.mc.mizle.net/)で公開しています。
+<!--   - 統計情報は[stats.mc.mizle.net](http://stats.mc.mizle.net/)で公開しています。 -->
 ---
 
 プラグイン追加希望も受け付けています。

@@ -3,6 +3,26 @@
 
 プラグイン等の追加・削除・更新の履歴です。
 
+<!---
+- [追加] [ ``]()を追加。
+- [更新] を``へ更新。
+- [削除] を削除。
+-->
+
+2016/11
+---
+
+### 2016/11/20
+- [追加] [CTSNC DisplayName Module `1.0`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-displayname-module-%E2%98%85.29554/)を追加。
+- [追加] [CTSNC Stats Module `1.1`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-stats-module-%E2%98%85.29556/)を追加。
+- [追加] [CTSNC Tablist Module `1.0`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-tablist-module-%E2%98%85.29551/)を追加。
+- [追加] [CTSNC Chat Module `1.0`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-chat-module-%E2%98%85.29553/)を追加。
+- [更新] Spigotを `git-Spigot-16c940b-ac99d7d`(Minecraft 1.11)へ更新。
+- [更新] CTSNCを`10.2`へ更新。
+- [更新] TTAを`3.2`へ更新。
+- [更新] Dynmapを`2.3`へ更新。
+- [削除] WeatherRestrictionsを削除。
+
 2016/04
 ---
 
