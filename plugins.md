@@ -23,7 +23,7 @@
 ## FlatBedrock `v1.0` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/flatbedrock/)
    - `/flatbedrock <範囲>` 岩盤を平坦化します。y0がすべて岩盤になりy1~y4までの岩盤が丸石に変わります。
 
-## Lockette `v1.8.21` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/lockette/)
+## Lockette `v1.8.33` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/lockette/)
    - 看板でチェスト保護とか。詳しい使い方はググってね。
 
 ## ManySmallTweaks `v1.0.13` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/manysmalltweaks/)

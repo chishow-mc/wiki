@@ -13,6 +13,10 @@
 ---
 
 ### 2016/11/20
+- [更新] TTAを`3.3`へ更新。
+- [更新] Locketteを`1.8.33`へ更新。
+
+### 2016/11/20
 - [追加] [CTSNC DisplayName Module `1.0`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-displayname-module-%E2%98%85.29554/)を追加。
 - [追加] [CTSNC Stats Module `1.1`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-stats-module-%E2%98%85.29556/)を追加。
 - [追加] [CTSNC Tablist Module `1.0`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-tablist-module-%E2%98%85.29551/)を追加。
@@ -22,6 +26,7 @@
 - [更新] TTAを`3.2`へ更新。
 - [更新] Dynmapを`2.3`へ更新。
 - [削除] WeatherRestrictionsを削除。
+- [削除] MineTweet_for_Pluginを削除。
 
 2016/04
 ---
@@ -77,7 +82,7 @@
 ### 2016/03/07
 
 - [更新] Spigotを`git-Spigot-3104eb1-0705465`へ更新。
-- [追加] [MineTweet_for_Plugin v1.48](http://forum.minecraftuser.jp/viewtopic.php?f=38&t=12469#p101584)を追加。
+- [追加] [MineTweet_for_Plugin `1.48`](http://forum.minecraftuser.jp/viewtopic.php?f=38&t=12469#p101584)を追加。
 
 ### 2016/03/06
 
@@ -86,14 +91,14 @@
 ### 2016/03/05
 
 - [更新] Spigotを`git-Spigot-b39373b-73eff0d`へ更新。
-- [追加] [DeathPoint v0.8.4.9b](http://dev.bukkit.org/bukkit-plugins/deathpoint/)を追加。
+- [追加] [DeathPoint `0.8.4.9b`](http://dev.bukkit.org/bukkit-plugins/deathpoint/)を追加。
 - [削除] HeksMOTDを削除。
 
 ### 2016/03/04
 
 - [更新] Spigotを`git-Spigot-87e2f47-ef13ca4`へ更新。
-- [追加] [HeksMOTD v1.0.0](https://www.spigotmc.org/resources/heksmotd.14930/)を追加。
-- [追加] [FoundBoxx v1.9.2](http://dev.bukkit.org/bukkit-plugins/foundboxx/)を追加。
+- [追加] [HeksMOTD `1.0.0`](https://www.spigotmc.org/resources/heksmotd.14930/)を追加。
+- [追加] [FoundBoxx `1.9.2`](http://dev.bukkit.org/bukkit-plugins/foundboxx/)を追加。
 
 ### 2016/03/03
 
