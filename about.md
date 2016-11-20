@@ -4,8 +4,8 @@
 基本情報
 ---
 - サーバーアドレス: **`play.mc.mizle.net`**
-- Minecraftバージョン: `1.9`
-- サーバーバージョン: `CraftBukkit version git-Spigot-d20369f-7fc5cd8 (MC: 1.9) (Implementing API version 1.9-R0.1-SNAPSHOT)`
+- Minecraftバージョン: `1.11`
+- サーバーバージョン: `CraftBukkit version git-Spigot-16c940b-ac99d7d (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)`
   - 随時[Spigot](https://www.spigotmc.org/)の最新版に更新予定です。
 
 ---
@@ -21,7 +21,7 @@
 参加
 ---
 - 当サーバーはホワイトリスト制です。
-- 参加資格は[Eai](https://twitter.com/eai04191)にフォローされていること、このサイトを一読したこと。
+- 参加資格は[えあい](https://twitter.com/eai04191)にフォローされていること、このサイトを一読したこと。
 - ホワイトリストを初期化したため1.8まで参加してた人も新しく参加表明をしてください。
 
 ルール
@@ -33,8 +33,8 @@
 
 タグ
 ---
-- 名前の前に [ ] で囲われたユーザーがいます。これは[Eai](https://twitter.com/eai04191)がユーザーに（希望、あるいは独断で）付与した**タグ**です。
-- 希望者は[Eai](https://twitter.com/eai04191)と相談してください。会話の最中に勝手に付与されることもあります。
+- 名前の前に [ ] で囲われたユーザーがいます。これは[えあい](https://twitter.com/eai04191)がユーザーに（希望、あるいは独断で）付与した**タグ**です。
+- 希望者は[えあい](https://twitter.com/eai04191)と相談してください。会話の最中に勝手に付与されることもあります。
 - **タグは蔑称である必要があります。**（一部例外ユーザーがいます。）
 
 ---
@@ -49,6 +49,7 @@
 
 3. <span class="mc_gold">[VIP]</span> - このサーバーに**特別な貢献**をしたユーザーのみ付与されます。
 6. <span class="mc_dark_purple">[分身]</span> - サブアカウントはこのタグが強制されます。
+
 1. <span class="mc_aqua">[仮面浪人]</span>
 2. <span class="mc_gray">[無職]</span>
 4. <span class="mc_light_purple">[ロリコン]</span>
@@ -67,15 +68,3 @@
 ---
 - [Statistics](http://dev.bukkit.org/bukkit-plugins/statistics/)で取得した統計情報を公開しています。
 - 統計情報は[stats.mc.mizle.net](http://stats.mc.mizle.net/)で公開しています。
-
-バックアップ
----
-- 毎日7時と19時にworldセーブデータをバックアップしています。
-- バックアップは[files.mc.mizle.net/backup](https://files.mc.mizle.net/backup/)で公開しています。
-
-
-ボイスチャット
----
-- 当サーバーでは[TeamSpeak 3](https://www.teamspeak.com/teamspeak3)でのボイスチャットを利用できます。
-- 参加希望者は[Eai](https://twitter.com/eai04191)までサーバーアドレス・パスワードを訪ねてください。
-- 参加は必須ではありません。
