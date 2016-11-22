@@ -12,6 +12,10 @@
 2016/11
 ---
 
+### 2016/11/22
+- [更新] CTSNCを`10.3`へ更新。
+- [追加] [CTSNC Scoreboard Module `1.2`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-scoreboard-module-%E2%98%85.29555/)を追加。
+
 ### 2016/11/21
 - [更新] TTAを`3.3`へ更新。
 - [更新] Locketteを`1.8.33`へ更新。
