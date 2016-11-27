@@ -12,6 +12,10 @@
 2016/11
 ---
 
+### 2016/11/27
+- [更新] Spigotを`git-Spigot-f950f8e-ad0e4b3`へ更新。
+- [追加] [MineTweet_for_Plugin `1.5`](http://forum.minecraftuser.jp/viewtopic.php?f=38&t=12469)を追加。
+
 ### 2016/11/22
 - [更新] CTSNCを`10.3`へ更新。
 - [追加] [CTSNC Scoreboard Module `1.2`](https://www.spigotmc.org/resources/ctsnc-%E2%98%85-scoreboard-module-%E2%98%85.29555/)を追加。
