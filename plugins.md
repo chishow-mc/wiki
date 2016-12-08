@@ -59,6 +59,13 @@
    - `/recipe <英語アイテム名>` でアイテムのレシピを確認できます。
    - とっても便利！
 
+## Satchels `0.1.0` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/satchels-backpacks.15079/)
+   - アイテムを持てる量が増えるバックパックを追加します。
+   - 詳しくは個別ページを参照してください。 - [Satchels](plugins/satchels.md)
+   - **インベントリ内でうまくスタックできないバグ、バックパックが消えるバグが確認されています。**
+   - そのため別プラグインを導入する準備をしています。
+   - インベントリ内でうまくスタックできないバグはSatchels内でスタックしてから取り出すことで回避可能です。
+
 ## SimpleSort `v1.6` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/simplesort/)
    - 木の棒でチェストを殴るとソートできます。
    - `/sort`  `/sort top` インベントリをソートします
