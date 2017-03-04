@@ -1,7 +1,7 @@
 <i class="fa fa-plug"></i>導入プラグイン一覧
 ===
 
-## ChopTree `v3.2.3` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/choptree.2046/)
+## ChopTree `v4.0.0` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/choptree.2046/)
    - 木の根元切ったら自動で上まで伐採してくれます。
    - `/togglechop` でオンオフを切り替えられます。
 
@@ -11,7 +11,7 @@
 
 ## Dynmap `v2.3` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/dynmap/)
    - ブラウザで見れるリアルタイムマップを表示します。
-   - http://map.mc.mizle.net
+   - http://map.chi.show
 
 ## FarmAssist `2.3` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/farmassist/)
    - 作物の種を自動で植え直してくれます。
@@ -59,12 +59,14 @@
    - `/recipe <英語アイテム名>` でアイテムのレシピを確認できます。
    - とっても便利！
 
+<!--
 ## Satchels `0.1.0` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/satchels-backpacks.15079/)
    - アイテムを持てる量が増えるバックパックを追加します。
    - 詳しくは個別ページを参照してください。 - [Satchels](plugins/satchels.md)
    - **インベントリ内でうまくスタックできないバグ、バックパックが消えるバグが確認されています。**
    - そのため別プラグインを導入する準備をしています。
    - インベントリ内でうまくスタックできないバグはSatchels内でスタックしてから取り出すことで回避可能です。
+-->
 
 ## SimpleSort `v1.6` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/simplesort/)
    - 木の棒でチェストを殴るとソートできます。
@@ -79,7 +81,7 @@
 
 ## Statistics `1.2.4.173` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/statistics/)
    - サーバー上のさまざまな統計情報を収集します。
-<!--   - 統計情報は[stats.mc.mizle.net](http://stats.mc.mizle.net/)で公開しています。 -->
+  - 統計情報は[stats.mc.mizle.net](http://stats.mc.mizle.net/)で公開しています。
 ---
 
 プラグイン追加希望も受け付けています。
