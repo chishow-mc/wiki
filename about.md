@@ -1,7 +1,7 @@
-このページの情報は古いです
-===
-[chi.show/about](http://chi.show/about)を参照してください.。
-===
+##このページの情報は古いです
+
+##[chi.show/about](http://chi.show/about)を参照してください.。
+
 ---
 
 サーバー仕様
