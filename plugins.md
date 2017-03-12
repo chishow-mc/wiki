@@ -1,9 +1,9 @@
 <i class="fa fa-plug"></i>導入プラグイン一覧
 ===
 
-## ChopTree `v4.0.0` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/choptree.2046/)
+## ChopTreeW `v1.8` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/choptreew.17585/)
    - 木の根元切ったら自動で上まで伐採してくれます。
-   - `/togglechop` でオンオフを切り替えられます。
+   - `/choptree on` `/choptree off` でオンオフを切り替えられます。
 
 ## DeathPoint `v0.8.4.9b` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/deathpoint/)
    - 死亡時の座標を教えてくれるプラグインです。
@@ -23,7 +23,7 @@
 ## FlatBedrock `v1.0` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/flatbedrock/)
    - `/flatbedrock <範囲>` 岩盤を平坦化します。y0がすべて岩盤になりy1~y4までの岩盤が丸石に変わります。
 
-## Lockette `v1.8.33` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/lockette/)
+## Lockette `v1.8.36` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/lockette/)
    - 看板でチェスト保護とか。詳しい使い方はググってね。
 
 ## ManySmallTweaks `v1.0.13` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/manysmalltweaks/)
@@ -54,10 +54,9 @@
    
    ### 特殊なHome
    - `/home Spawn`マップの初期スポーンへテレポートします。
-
-## Recipe Finder `2.2` [<i class="fa fa-external-link"></i>](http://dev.bukkit.org/bukkit-plugins/recipe-finder/)
-   - `/recipe <英語アイテム名>` でアイテムのレシピを確認できます。
-   - とっても便利！
+   - `/home v1`過去ワールドv1へテレポートします。
+   - `/home v2`過去ワールドv2へテレポートします。
+   - `/home Creative`クリエイティブワールドへテレポートします。
 
 <!--
 ## Satchels `0.1.0` [<i class="fa fa-external-link"></i>](https://www.spigotmc.org/resources/satchels-backpacks.15079/)
